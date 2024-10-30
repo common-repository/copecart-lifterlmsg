@@ -1,0 +1,142 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CopeCart-LifterLMS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-14 08:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/lifterlms-copecart-ipn.php:102
+#: includes/lifterlms-copecart-ipn.php:180
+msgid " , User Already Exists With user_id "
+msgstr ""
+
+#: includes/lifterlms-copecart-ipn.php:137
+#: includes/lifterlms-copecart-ipn.php:208
+msgid ", Course Not Available"
+msgstr ""
+
+#: includes/lifterlms-copecart-ipn.php:246
+#: includes/lifterlms-copecart-ipn.php:287
+#: includes/lifterlms-copecart-ipn.php:328
+msgid ", Course Not Found"
+msgstr ""
+
+#: includes/lifterlms-copecart-ipn.php:95
+#: includes/lifterlms-copecart-ipn.php:173
+msgid ", New User Created With user_id "
+msgstr ""
+
+#: includes/lifterlms-copecart-ipn.php:341
+msgid ", No Event Found"
+msgstr ""
+
+#: includes/lifterlms-copecart-ipn.php:337
+msgid ", Payment Failed"
+msgstr ""
+
+#: includes/lifterlms-copecart-ipn.php:109
+msgid ", User Already Enrolled"
+msgstr ""
+
+#: includes/lifterlms-copecart-ipn.php:224
+#: includes/lifterlms-copecart-ipn.php:265
+#: includes/lifterlms-copecart-ipn.php:306
+msgid ", User Already Exist With user_id "
+msgstr ""
+
+#: includes/lifterlms-copecart-ipn.php:133
+msgid ", User Enrolled To course_id "
+msgstr ""
+
+#: includes/lifterlms-copecart-ipn.php:204
+msgid ", User Enrolled To course_id using copecart trial "
+msgstr ""
+
+#: includes/lifterlms-copecart-ipn.php:249
+#: includes/lifterlms-copecart-ipn.php:290
+#: includes/lifterlms-copecart-ipn.php:331
+msgid ", User Not Found"
+msgstr ""
+
+#: includes/lifterlms-copecart-ipn.php:244
+#: includes/lifterlms-copecart-ipn.php:285
+#: includes/lifterlms-copecart-ipn.php:326
+msgid ", User Unenrolled To course_id "
+msgstr ""
+
+#: includes/lifterlms-copecart-ipn.php:346
+msgid "Cannot open file:  "
+msgstr ""
+
+#. Author of the plugin
+msgid "CopeCart"
+msgstr ""
+
+#: includes/lifterlms-copecart-settings.php:191
+msgid "Copecart Course ID"
+msgstr ""
+
+#: includes/lifterlms-copecart-settings.php:194
+msgid "Copecart Membership ID"
+msgstr ""
+
+#: includes/lifterlms-copecart-settings.php:121
+msgid "Copecart Payment IPN Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "CopeCart-LifterLMS"
+msgstr ""
+
+#: includes/lifterlms-copecart-settings.php:128
+msgid "Course IPN URL"
+msgstr ""
+
+#: includes/lifterlms-copecart-settings.php:134
+msgid "Course IPN URL:"
+msgstr ""
+
+#: includes/lifterlms-copecart-settings.php:144
+msgid "Enabling this will remove checkout tab and order post-type."
+msgstr ""
+
+#: includes/lifterlms-copecart-settings.php:141
+msgid "Hide Checkout settings and Order Menu"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://copecart.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/copecart-lifterlms/"
+msgstr ""
+
+#: includes/lifterlms-copecart-settings.php:225
+msgid "Membership ID"
+msgstr ""
+
+#: includes/lifterlms-copecart-settings.php:111
+msgid "None"
+msgstr ""
+
+#: includes/lifterlms-copecart-settings.php:209
+msgid "Product ID"
+msgstr ""
+
+#: includes/lifterlms-copecart-settings.php:143
+msgid "Remove checkout and order."
+msgstr ""
+
+#. Description of the plugin
+msgid "Used for CopeCart Payment Gateway Integration With Lifter LMS"
+msgstr ""
